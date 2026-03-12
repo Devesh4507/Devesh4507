@@ -18,7 +18,9 @@
 
 ## 📌 Featured Projects
 
-🔹 **HR Attrition Analysis**  
+🔹 **HR Attrition Analysis**
+🔹 **Banking Clients Analytics-Dashboard**
+🔹 **Superstore-Sales-Analysis-Excel**
 
 (Projects are pinned below 👇)
 
