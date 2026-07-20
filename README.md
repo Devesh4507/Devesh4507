@@ -18,6 +18,7 @@
 
 ## 📌 Featured Projects
 
+🔹 **Marketing Campaign Performance Analysis**
 🔹 **HR Attrition Analysis**
 🔹 **Banking Clients Analytics-Dashboard**
 🔹 **Superstore-Sales-Analysis-Excel**
