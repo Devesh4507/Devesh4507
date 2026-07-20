@@ -13,6 +13,7 @@
 - **SQL** (MySQL)
 - **Excel** (Advanced)
 - **Power BI** (Dashboards & storytelling)
+- **Canva**
 
 ---
 
